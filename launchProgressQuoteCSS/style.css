@@ -1,0 +1,29 @@
+@font-face {
+    font-family: 'ballparkweiner';
+    src: url('ballw___-webfont.eot');
+    src: url('ballw___-webfont.eot?#iefix') format('embedded-opentype'),
+         url('ballw___-webfont.woff') format('woff'),
+         url('ballw___-webfont.ttf') format('truetype'),
+         url('ballw___-webfont.svg#ballparkweiner') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+#container {width:320px; height:568px; background:#000; background-size:320px; margin:0; display:block; overflow:hidden;
+  
+}
+
+p {color:white;padding:90px 34px 0px 49px; font-family:Copse; font-size:26px; line-height:38px;
+    -webkit-filter: blur(0px);
+  -moz-filter: blur(0px);
+  -o-filter: blur(0px);
+  -ms-filter: blur(0px);
+  filter: blur(0px);}
+  
+p:first-child:first-letter { font-family: BallparkWeiner, Copse; font-size: 127px; color: #FFEA8E; line-height: 24px; float:left; margin:0px 0px 0px -60px;}
+
+#ref {font-family: AvenirNext-Regular; font-size: 15px; color: #FFEA8E; line-height: 55px; letter-spacing: 2px; text-transform:uppercase; text-align:center; margin-top:-24px;}
+
+
